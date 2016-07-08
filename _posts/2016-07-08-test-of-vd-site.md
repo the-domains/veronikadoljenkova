@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-08T01:32:24.922Z'
-dateModified: '2016-07-08T01:32:23.462Z'
+datePublished: '2016-07-08T01:33:13.765Z'
+dateModified: '2016-07-08T01:32:33.853Z'
 title: Penguin
 author:
   - name: ''
@@ -22,5 +22,3 @@ _type: MediaObject
 ---
 # Penguin
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1483da49-bfd1-45ee-9c05-aee216ea496b.jpg)
-
-##
