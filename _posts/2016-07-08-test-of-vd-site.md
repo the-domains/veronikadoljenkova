@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-08T01:21:22.069Z'
-dateModified: '2016-07-08T01:20:58.910Z'
+datePublished: '2016-07-08T01:30:09.795Z'
+dateModified: '2016-07-08T01:28:05.482Z'
 title: Penguin
 author:
   - name: ''
@@ -16,7 +16,7 @@ author:
 sourcePath: _posts/2016-07-08-test-of-vd-site.md
 authors: []
 publisher: null
-starred: false
+starred: true
 _type: MediaObject
 
 ---
