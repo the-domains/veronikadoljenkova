@@ -1,7 +1,7 @@
 name: veronikadoljenkova
 favicon: null
-layout_spectrum: 0.3259304405655712
-typography_spectrum: 0.5287728179246187
+layout_spectrum: 0.51128
+typography_spectrum: 0.36284
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.6832644129171968
-  lightness: 0.28822874487377703
-  saturation: 0.8534850312862545
-  rhythmicContrast: 0.14066682592965662
+    - '#00b7a5'
+    - '#040300'
+    - '#544948'
+    - '#7a6e6c'
+    - '#fefbfe'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
