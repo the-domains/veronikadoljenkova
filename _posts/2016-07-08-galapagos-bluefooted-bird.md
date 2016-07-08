@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Galapagos bluefooted bird '
-datePublished: '2016-07-08T01:23:26.320Z'
-dateModified: '2016-07-08T01:22:31.353Z'
+datePublished: '2016-07-08T01:26:02.313Z'
+dateModified: '2016-07-08T01:25:07.292Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-07-08-galapagos-bluefooted-bird.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-08-galapagos-bluefooted-bird.md
 url: galapagos-bluefooted-bird/index.html
 _type: Article
 
