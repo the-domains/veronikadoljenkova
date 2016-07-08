@@ -1,0 +1,28 @@
+name: veronikadoljenkova
+favicon: null
+layout_spectrum: 0.3259304405655712
+typography_spectrum: 0.5287728179246187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6832644129171968
+  lightness: 0.28822874487377703
+  saturation: 0.8534850312862545
+  rhythmicContrast: 0.14066682592965662
+purpose: []
