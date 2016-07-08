@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-08T01:16:07.751Z'
-dateModified: '2016-07-08T01:13:58.318Z'
+datePublished: '2016-07-08T01:18:01.367Z'
+dateModified: '2016-07-08T01:17:46.656Z'
 title: Penguin
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-07-08-test-of-vd-site.md
 authors: []
 publisher: null
